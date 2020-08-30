@@ -71,7 +71,3 @@ public class Book {
         return Objects.hash(getNameOfTheBook(), getNameOfTheAuthorOfTheBook(), getThirteenDigitISBNNumberOfTheBook());
     }
 }
-
-
-public class Book {
-}
